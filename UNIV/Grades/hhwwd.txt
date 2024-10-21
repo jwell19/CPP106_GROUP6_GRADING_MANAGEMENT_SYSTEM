@@ -1,0 +1,5 @@
+Student Name | Prelims | Midterms | Finals | Final Grading
+a | 67.0 | 89.0 | 67.0 | 73.6
+b | 10.0 | 50.0 | 100.0 | 58.0
+c | 45.0 | 67.0 | 45.0 | 51.6
+d | 45.0 | 34.0 | 78.0 | 54.9
